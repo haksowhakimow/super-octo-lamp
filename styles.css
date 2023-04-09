@@ -1,0 +1,28 @@
+img{float: right; width: 45%;}
+#title { font-size:2.5rem; margin: 200px;font-family: 'Righteous', cursive; color:yellow;}
+#home{background-color:darkslategrey;padding-bottom: 18px; border-bottom: solid; border-width: thin; border-color:wheat;
+     }
+
+h1{font-size: 6rem; color: white;}
+
+.nav-li{display: inline; margin-left: 170px; margin-top: 20px;}
+a{
+     color: white; text-decoration: none; font-size: 1.5rem;font-weight:700; 
+}
+a:hover{
+     color: yellow; 
+}
+.nav-bar{padding-top: 40px;}
+#bio{ text-align: center; padding: 25px; font-size: 1.5rem; background-color:darkgray; border-bottom:solid;border-width: thin;border-color:wheat}
+h2{color:rgb(255, 230, 0);}
+#skills{background-color:darkslategrey; text-align: center; border-bottom:solid;padding: 25px;border-width: thin;border-color: wheat; font-weight:bolder; color: darkgray;}
+h4{line-height: 2.5rem;}
+#contact{background-color:darkgray; text-align: center; padding: 25px;}
+footer{margin: 20px; font-size: 1.5rem;}
+
+
+@media only screen and (max-width: 768px) {
+     /* For mobile phones: */
+     h1{font-size:medium;}
+}
+   
